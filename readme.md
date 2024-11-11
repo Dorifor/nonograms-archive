@@ -25,9 +25,9 @@ So I dug in to check what was possible to get easily, what wasn't and what was i
   
 Let's list things out:
 
-*   Each nonograms has an id
+*   Each nonogram has an id
     *   It's a straightforward integer going from 1 to infinity and beyond (lucky for us)
-*   Each nonograms is accessible through a URI combination of a base then the id
+*   Each nonogram is accessible through a URI combination of a base then the id
     *   https://www.nonograms.org/nonograms/i/<id>
     *   Even more lucky for us, no need to parse through the browse section 👌
 *   The base URI comes in two flavors :
