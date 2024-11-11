@@ -54,7 +54,7 @@ Quite the start ! We have a few data already, but not about the puzzle itself, s
   
 Lucky for us, I found some data hidden inside a `<script>` tag :  
   
-// INSERT SCREENSHOT 1  
+![Screenshot 2024-11-10 214630](https://github.com/user-attachments/assets/647bdb6c-3fcb-48ec-aa65-58546681ff3e)
   
 This, is our goldmine, this `d` var has everything we need, but this raw data means nothing. At first, I tried to rack my brains and figure out what it could mean and how it should be read, no luck.  
   
@@ -63,12 +63,12 @@ Just after, we can see a script attached, some 'nonograms2.min.js' surely it hol
 Fat luck again, it's all just a jumbled mess !  
 It's a minified and / or obfuscated JavaScript, it's common to see them in the wild  
   
-// INSERT SCREENSHOT 2  
-  
+![image](https://github.com/user-attachments/assets/c7885160-de5f-4d85-921d-3fa204705b26)
+
 However, do not fret over this, friends, as I have made this my life mission !  
 After careful search, I noticed it used our lovely `d` var and pokes around with it to get some data.  
   
-// INSERT SCREENSHOT 3  
+![image](https://github.com/user-attachments/assets/33e70245-8f41-4923-9372-2550c401c4b6)
   
 Still an incomprehensible mess, but we're getting somewhere.  
 It was clear I needed to reverse engineer it to at least get something tangible to use.  
