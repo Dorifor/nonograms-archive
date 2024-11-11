@@ -1,12 +1,16 @@
 # Nonograms.org archive project
 
+
+## Archive
+
+Only interested about the file ? go see the [latest release](https://github.com/Dorifor/nonograms-archive/releases/latest)
   
 
 ## Background
 
 I love nonograms, those japanese 'crosswords', sometimes called Picross', I've done a lot of them, and it's always a pleasure to challenge myself.  
   
-Anyway, there's a cool website out there that lets users create nonograms for everyone to play, they come in flavors too ! black and white, colored ones, animals, adult ones, landscapes, really neat.  
+Anyway, there's a [cool website](https://www.nonograms.org) out there that lets users create nonograms for everyone to play, they come in flavors too ! black and white, colored ones, animals, adult ones, landscapes, really neat.  
   
 They got a ton too, I think the website has been around since 2009, it adds up to (at the time of writing this (2024/11)) around 60k.  
   
