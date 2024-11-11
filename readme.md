@@ -28,11 +28,11 @@ Let's list things out:
 *   Each nonogram has an id
     *   It's a straightforward integer going from 1 to infinity and beyond (lucky for us)
 *   Each nonogram is accessible through a URI combination of a base then the id
-    *   https://www.nonograms.org/nonograms/i/<id>
+    *   https://www.nonograms.org/nonograms/i/<id\>
     *   Even more lucky for us, no need to parse through the browse section 👌
 *   The base URI comes in two flavors :
-    *   https://www.nonograms.org/nonograms/i/<id>
-    *   https://www.nonograms.org/nonograms2/i/<id>
+    *   https://www.nonograms.org/nonograms/i/<id\>
+    *   https://www.nonograms.org/nonograms2/i/<id\>
         *   Notice this '2' hidden here ? It means it's a colored one (yeah for some reason they got different handles 🤷)
     *   Actual pages are sent by the server (probably with PHP) almost completed
     *   EXCEPT for the nonograms `<canvas>`, it's generated with JavaScript through some data passed inside a `<script>` tag (that's the core of this project, without it it'd be waaaay harder)
