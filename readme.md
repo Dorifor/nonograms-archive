@@ -3,7 +3,7 @@
 
 ## Archive
 
-Only interested about the file ? go see the [latest release](https://github.com/Dorifor/nonograms-archive/releases/latest)
+Only interested by the file ? go see the [latest release](https://github.com/Dorifor/nonograms-archive/releases/latest)
   
 
 ## Background
