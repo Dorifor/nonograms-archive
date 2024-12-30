@@ -123,7 +123,7 @@ I kept:
 *   Row colors (mapped to cons. cells)
 
   
-It's a semi-comma (;) separated values for each line and has everything needed to parse itself.  
+It's a semi-colon (;) separated values for each line and has everything needed to parse itself.  
   
 Also, some values are skipped / 'nulled' when not needed or not given :
 
