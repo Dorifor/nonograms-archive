@@ -5,11 +5,12 @@ import time
 
 BASE_URL = "https://www.nonograms.org/nonograms/i/"
 BASE_URL_COLOR = "https://www.nonograms.org/nonograms2/i/"
+START_INDEX = 0
 # START_INDEX = 5243  # it crashed lol
 # START_INDEX = 11238  # it crashed lol
 # START_INDEX = 14120  # it crashed lol
 # START_INDEX = 15907  # it crashed lol
-START_INDEX = 20551  # it crashed lol
+# START_INDEX = 20551  # it crashed lol
 # MAX_INDEX = current_index + 100
 MAX_INDEX = 100000
 
